@@ -50,6 +50,14 @@ function from that class so it'll reflected in the all widgets inside the projec
 (that's using that function), and for sure it'll not be the final code for it.
 
 
+# Acceptance Criteria
+
+In the case of loading the products, we have to implement pagination for sure so we can save the state of the current 
+limit and page variables inside the bloc and increase them depending on the scroll behavior of the user.
+Also, for caching we can save the fetched data from the backend into `hive` or `shared_preferences` and so on I didn't implement that because the time 
+is out for today.
+
+
 # Video Demo
 
 You can check the demo here in the link below:
