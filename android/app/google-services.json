@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902814745611",
+    "project_id": "royal-class-property",
+    "storage_bucket": "royal-class-property.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902814745611:android:395b8338bdc9c5fab0330e",
+        "android_client_info": {
+          "package_name": "royal.property.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_22KXGABNZ-aFVye3d8AryGg4mTGZrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
