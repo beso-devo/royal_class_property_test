@@ -73,7 +73,7 @@ class _SplashPageState extends State<SplashPage> {
     switch (status) {
       case -2:
         Navigator.pushNamedAndRemoveUntil(
-            context, GeneralScreens.MAIN_PAGE, (route) => false);
+            context, GeneralScreens.SIGN_UP, (route) => false);
         break;
       // case 1:
       //   Navigator.pushNamedAndRemoveUntil(
