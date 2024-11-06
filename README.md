@@ -57,6 +57,7 @@ limit and page variables inside the bloc and increase them depending on the scro
 Also, for caching we can save the fetched data from the backend into `hive` or `shared_preferences` and so on I didn't implement that because the time 
 is out for today.
 
+The categories it'll be from the backend side also for sure and we can call the APi also.
 
 # Video Demo
 
