@@ -57,7 +57,8 @@ limit and page variables inside the bloc and increase them depending on the scro
 Also, for caching we can save the fetched data from the backend into `hive` or `shared_preferences` and so on I didn't implement that because the time 
 is out for today.
 
-The categories it'll be from the backend side also for sure and we can call the APi also.
+The categories it'll be from the backend side also for sure and we can call the APi also and for sure the entities are using for the datasource places 
+and for the UIs we use the models in usual but these I left it as once (entities) because we have to match all of that with backend in [BaseResponseModel] and the others. 
 
 # Video Demo
 
